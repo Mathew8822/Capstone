@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Jared Goff Black Detroit Lions Jersey",
+        "price": 100,
+        "image": "img/Products/16.avif"
+    },
+    {
+        "id": 2,
+        "name": "Men's Nike Aidan Hutchinson Blue Detroit Lions Player Game Jersey",
+        "price": 100,
+        "image": "img/Products/97.avif"
+    },
+    {
+        "id": 3,
+        "name": "Men's Nike Amon-Ra St. Brown White Detroit Lions Vapor F.U.S.E. Limited Jersey",
+        "price": 120,
+        "image": "img/Products/14.avif"
+    },
+    {
+        "id": 4,
+        "name": "Men's Nike Terrion Arnold Blue Detroit Lions 2024 NFL Draft First Round Pick Player Game Jersey",
+        "price": 100,
+        "image": "img/Products/0.avif"
+    },
+    {
+        "id": 5,
+        "name": "Men's Nike Sam LaPorta Black Detroit Lions Name & Number T-Shirt",
+        "price": 19,
+        "image": "img/Products/87.avif"
+    },
+    {
+        "id": 6,
+        "name": "Women's Fanatics Blue/White Detroit Lions Backup Option Long Sleeve Hoodie T-Shirt",
+        "price": 40,
+        "image": "img/Products/sweat.avif"
+    },
+    {
+        "id": 7,
+        "name": "Riddell Detroit Lions 2024 On-Field Alternate Speed Flex Authentic Helmet",
+        "price": 713,
+        "image": "img/Products/blue helm.avif"
+    },
+    {
+        "id": 8,
+        "name": "Riddell Detroit Lions 2024 On-Field Alternate Speed Flex Authentic Helmet",
+        "price": 25,
+        "image": "img/Products/helm.avif"
+    },
+    {
+        "id": 9,
+        "name": "Men's Detroit Red Wings Dylan Larkin Fanatics Red Home Breakaway Jersey",
+        "price": 150,
+        "image": "img/Products/larkin.avif"
+    },
+    {
+        "id": 10,
+        "name": "Men's Detroit Red Wings Moritz Seider Fanatics Red Home Breakaway Player Jersey",
+        "price": 150,
+        "image": "img/Products/sider.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Men's Detroit Red Wings Alex Lyon Fanatics Red Home Breakaway Jersey",
+        "price": 150,
+        "image": "img/Products/lyon.avif"
+    },
+    {
+        "id": 12,
+        "name": "Men's Detroit Red Wings Steve Yzerman Mitchell & Ness White 1983/84 Blue Line Player Jersey",
+        "price": 174,
+        "image": "img/Products/yzerman.avif"
+    },
+    {
+        "id": 13,
+        "name": "2023-24 Detroit Pistons Cade Cunningham City Edition Jersey",
+        "price": 115,
+        "image": "img/Products/CUNNINGHAM.webp"
+    },
+    {
+        "id": 14,
+        "name": "Detroit Pistons Jalen Duren Nike Hardwood Classic Swingman Jersey - 2022-23",
+        "price": 120,
+        "image": "img/Products/DUREN.webp"
+    },
+    {
+        "id": 15,
+        "name": "Detroit Pistons Jaden Ivey Nike Icon Swingman Jersey - 2024-25",
+        "price": 110,
+        "image": "img/Products/ivey.webp"
+    },
+    {
+        "id": 16,
+        "name": "Detroit Pistons Chauncey Billups Mitchell & Ness Royal Hardwood Classics Throwback Swingman Jersey - 2003-04",
+        "price": 145,
+        "image": "img/Products/billups.webp"
+    },
+    {
+        "id": 17,
+        "name": "Men's Detroit Tigers Tarik Skubal Nike Gray Road Replica Jersey",
+        "price": 126,
+        "image": "img/Products/skubal.avif"
+    },
+    {
+        "id": 18,
+        "name": "Men's Detroit Tigers Wenceel Perez Nike Navy 2024 City Connect Limited Jersey",
+        "price": 115,
+        "image": "img/Products/perez.avif"
+    },
+    {
+        "id": 19,
+        "name": "Women's Detroit Tigers Riley Greene Nike White Home Replica Player Jersey",
+        "price": 125,
+        "image": "img/Products/Greene.avif"
+    },
+    {
+        "id": 20,
+        "name": "Men's Detroit Tigers Nike Navy Alternate Limited Custom Jersey",
+        "price": 150,
+        "image": "img/Products/custom.avif"
+    }
+]
